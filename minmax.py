@@ -1,4 +1,4 @@
-l=[10,20,30,40,60,True,1]
+l=[10,20,30,40,60,True]
 print(len(l))
 print(l)
 print(max(l))
